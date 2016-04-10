@@ -4,7 +4,7 @@ import itertools
 import random
 
 
-PATH_TO_JSON_GRAMMAR_SPECIFICATION = '/Users/jamesryan/Desktop/Projects/Personal/anytown/content/talktown.json'
+PATH_TO_JSON_GRAMMAR_SPECIFICATION = './content/talktown.json'
 
 
 class Productionist(object):
